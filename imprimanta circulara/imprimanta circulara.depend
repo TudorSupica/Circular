@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676365988 source:c:\users\freeman\desktop\work\robotica\cod\c++\training\imprimanta circulara\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
